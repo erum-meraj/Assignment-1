@@ -1,8 +1,8 @@
 # SVM Classification on Breast Cancer Dataset
 
-Name: Erum Meraj
-ROll Number: 2201CS24
-Course: CS502 - APR
+- Name: Erum Meraj
+- Roll Number: 2201CS24
+- Course: CS502 - APR
 
 This project implements **Support Vector Machine (SVM)** classification on the **Breast Cancer Wisconsin dataset** using Python and Scikit-learn.
 It demonstrates the full machine learning workflow — from preprocessing to training, evaluation, and visualization.
